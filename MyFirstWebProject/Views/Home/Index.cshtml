@@ -1,0 +1,21 @@
+﻿@model List<MyFirstProject.Models.Equipment>
+
+@{
+    ViewData["Title"] = "Safran Equipment List";
+}
+
+<div class="align-content-center">
+    <h1> Safran Equipment list </h1>
+</div>
+
+<div class="list-group">
+    @foreach (Equipment item in Model)
+    {
+        <div class="list-group-item">
+            <p>Brand: @item.Brand </p>
+            <p>Model: @item.Model </p>
+            <p>Id: @item.Id </p>
+        </div>    
+
+    }
+</div>
