@@ -1,0 +1,100 @@
+User_Name,Department,Provider,Plan_Data_GB,Used_Data_GB,Used_Voice_Min,Base_Price,Extra_Costs,Country
+Liam Wilson,Maintenance,Telstra,20,18.5,120,45.00,0.00,Australia
+Emma Brown,Logistics,Telstra,20,22.3,340,45.00,23.00,Australia
+Noah Taylor,IT,Telstra,50,45.0,800,85.00,0.00,Australia
+Olivia Smith,Management,Spark,30,12.0,150,60.00,0.00,New Zealand
+William Jones,Maintenance,Spark,20,25.8,410,40.00,58.00,New Zealand
+James Miller,Sales,Telstra,40,38.2,600,70.00,0.00,Australia
+Sophia Davis,Logistics,Telstra,20,19.9,200,45.00,0.00,Australia
+Benjamin Garcia,Maintenance,Spark,20,21.5,110,40.00,15.00,New Zealand
+Isabella Rodriguez,IT,Spark,50,55.4,950,75.00,54.00,New Zealand
+Lucas Martinez,Management,Telstra,30,28.0,300,60.00,0.00,Australia
+Mia Hernandez,Sales,Telstra,40,42.1,550,70.00,21.00,Australia
+Alexander Lopez,Maintenance,Telstra,20,15.0,90,45.00,0.00,Australia
+Charlotte Gonzalez,Logistics,Spark,20,18.2,180,40.00,0.00,New Zealand
+Elijah Wilson,IT,Telstra,50,48.5,720,85.00,0.00,Australia
+Amelia Anderson,Management,Spark,30,31.2,400,60.00,12.00,New Zealand
+James Thomas,Maintenance,Telstra,20,24.5,290,45.00,45.00,Australia
+Harper Taylor,Sales,Telstra,40,35.0,510,70.00,0.00,Australia
+Evelyn Moore,Logistics,Spark,20,19.5,150,40.00,0.00,New Zealand
+Jack Jackson,IT,Telstra,50,52.1,880,85.00,21.00,Australia
+Avery Martin,Maintenance,Spark,20,22.0,310,40.00,20.00,New Zealand
+Scarlett Lee,Sales,Telstra,40,39.8,420,70.00,0.00,Australia
+Madison Perez,Management,Telstra,30,25.0,210,60.00,0.00,Australia
+Daniel Thompson,Logistics,Telstra,20,17.4,180,45.00,0.00,Australia
+Layla White,Maintenance,Spark,20,26.5,450,40.00,65.00,New Zealand
+Henry Harris,IT,Spark,50,47.0,600,75.00,0.00,New Zealand
+Chloe Sanchez,Sales,Telstra,40,41.5,580,70.00,15.00,Australia
+Jackson Clark,Maintenance,Telstra,20,19.2,220,45.00,0.00,Australia
+Sebastian Lewis,Logistics,Telstra,20,23.1,380,45.00,31.00,Australia
+Grace Robinson,IT,Telstra,50,58.0,1100,85.00,80.00,Australia
+Zoey Walker,Management,Spark,30,29.9,350,60.00,0.00,New Zealand
+Matthew Young,Sales,Spark,40,35.5,490,65.00,0.00,New Zealand
+Samuel Hall,Maintenance,Telstra,20,20.5,150,45.00,5.00,Australia
+Victoria Allen,Logistics,Telstra,20,16.8,140,45.00,0.00,Australia
+David King,IT,Spark,50,53.2,900,75.00,32.00,New Zealand
+Joseph Wright,Management,Telstra,30,27.5,280,60.00,0.00,Australia
+Carter Scott,Sales,Telstra,40,37.0,520,70.00,0.00,Australia
+Owen Nguyen,Maintenance,Spark,20,19.0,210,40.00,0.00,New Zealand
+Wyatt Hill,Logistics,Telstra,20,21.8,320,45.00,18.00,Australia
+John Adams,IT,Telstra,50,49.5,750,85.00,0.00,Australia
+Jack Green,Management,Spark,30,32.5,440,60.00,25.00,New Zealand
+Luke Baker,Sales,Telstra,40,40.1,590,70.00,1.00,Australia
+Julian Gonzalez,Maintenance,Telstra,20,14.5,80,45.00,0.00,Australia
+Isaac Nelson,Logistics,Spark,20,24.1,390,40.00,41.00,New Zealand
+Levi Carter,IT,Telstra,50,51.0,820,85.00,10.00,Australia
+Dylan Mitchell,Management,Spark,30,26.0,300,60.00,0.00,New Zealand
+Nathan Perez,Sales,Telstra,40,38.5,540,70.00,0.00,Australia
+Caleb Roberts,Maintenance,Telstra,20,18.8,190,45.00,0.00,Australia
+Ryan Turner,Logistics,Spark,20,20.2,250,40.00,2.00,New Zealand
+Hunter Phillips,IT,Telstra,50,45.5,690,85.00,0.00,Australia
+Christian Campbell,Management,Telstra,30,29.5,310,60.00,0.00,Australia
+Landon Parker,Sales,Spark,40,43.2,610,65.00,32.00,New Zealand
+Jonathan Evans,Maintenance,Telstra,20,22.9,350,45.00,29.00,Australia
+Isaiah Edwards,Logistics,Telstra,20,19.1,170,45.00,0.00,Australia
+Charles Collins,IT,Spark,50,54.8,980,75.00,48.00,New Zealand
+Thomas Stewart,Management,Telstra,30,28.4,270,60.00,0.00,Australia
+Aaron Sanchez,Sales,Telstra,40,36.5,480,70.00,0.00,Australia
+Eli Morris,Maintenance,Spark,20,18.5,230,40.00,0.00,New Zealand
+Connor Rogers,Logistics,Telstra,20,21.2,330,45.00,12.00,Australia
+Jeremiah Reed,IT,Telstra,50,59.5,1200,85.00,95.00,Australia
+Ezra Cook,Management,Spark,30,27.1,340,60.00,0.00,New Zealand
+Jordan Morgan,Sales,Telstra,40,39.2,460,70.00,0.00,Australia
+Nicholas Bell,Maintenance,Telstra,20,25.4,410,45.00,54.00,Australia
+Robert Murphy,Logistics,Spark,20,19.8,200,40.00,0.00,New Zealand
+Angel Bailey,IT,Telstra,50,48.0,710,85.00,0.00,Australia
+Adrian Rivera,Management,Telstra,30,31.5,420,60.00,15.00,Australia
+Silas Cooper,Sales,Spark,40,44.5,630,65.00,45.00,New Zealand
+Cameron Richardson,Maintenance,Telstra,20,17.2,160,45.00,0.00,Australia
+Xavier Cox,Logistics,Telstra,20,20.8,300,45.00,8.00,Australia
+Ian Howard,IT,Spark,50,56.1,1010,75.00,61.00,New Zealand
+Josiah Ward,Management,Telstra,30,25.8,240,60.00,0.00,Australia
+Adam Torres,Sales,Telstra,40,37.8,500,70.00,0.00,Australia
+Dominic Peterson,Maintenance,Spark,20,23.5,360,40.00,35.00,New Zealand
+Jace Gray,Logistics,Telstra,20,19.5,210,45.00,0.00,Australia
+Cooper Ramirez,IT,Telstra,50,50.2,840,85.00,2.00,Australia
+Kayden James,Management,Spark,30,29.1,380,60.00,0.00,New Zealand
+Jaxson Watson,Sales,Telstra,40,41.9,570,70.00,19.00,Australia
+Greyson Brooks,Maintenance,Telstra,20,18.2,190,45.00,0.00,Australia
+Colton Kelly,Logistics,Spark,20,20.9,290,40.00,9.00,New Zealand
+Austin Sanders,IT,Telstra,50,44.8,650,85.00,0.00,Australia
+Kevin Price,Management,Telstra,30,26.5,290,60.00,0.00,Australia
+Miles Bennett,Sales,Spark,40,38.9,530,65.00,0.00,New Zealand
+Lincoln Wood,Maintenance,Telstra,20,21.6,330,45.00,16.00,Australia
+Hudson Barnes,Logistics,Telstra,20,15.5,110,45.00,0.00,Australia
+Evan Ross,IT,Spark,50,52.8,920,75.00,28.00,New Zealand
+Luca Henderson,Management,Telstra,30,27.8,260,60.00,0.00,Australia
+Zachary Coleman,Sales,Telstra,40,39.5,490,70.00,0.00,Australia
+Asher Jenkins,Maintenance,Spark,20,24.8,400,40.00,48.00,New Zealand
+Elliott Perry,Logistics,Telstra,20,18.9,200,45.00,0.00,Australia
+Tyler Powell,IT,Telstra,50,51.5,830,85.00,15.00,Australia
+Bennett Long,Management,Spark,30,30.5,410,60.00,5.00,New Zealand
+Bentley Patterson,Sales,Telstra,40,40.8,550,70.00,8.00,Australia
+Gavin Hughes,Maintenance,Telstra,20,19.9,250,45.00,0.00,Australia
+Leo Flores,Logistics,Spark,20,21.5,310,40.00,15.00,New Zealand
+Justin Washington,IT,Telstra,50,46.5,680,85.00,0.00,Australia
+Ivan Butler,Management,Telstra,30,25.2,220,60.00,0.00,Australia
+Emiliano Simmons,Sales,Spark,40,36.2,470,65.00,0.00,New Zealand
+Nathaniel Foster,Maintenance,Telstra,20,22.1,340,45.00,21.00,Australia
+Eric Gonzales,Logistics,Telstra,20,17.9,150,45.00,0.00,Australia
+Tyler Bryant,IT,Spark,50,55.5,990,75.00,55.00,New Zealand
