@@ -32,7 +32,7 @@ This repository showcases my ability to deliver the key missions described in th
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## Technical Skills Demonstrated
 - **Data & BI:** Power BI, Power Query, SQL.
 - **Cloud & Dev:** AWS (Elastic Beanstalk, IAM), C#, .NET.
 - **IA:** ChatGPT.
